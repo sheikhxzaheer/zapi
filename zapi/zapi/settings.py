@@ -89,7 +89,7 @@ DATABASES = {
         'NAME': 'verceldb',
         'USER': 'default',
         'PASSWORD': 'zU0cw2lGpNBA',
-        'HOST': 'ep-steep-glade-805441-pooler.ap-southeast-1.postgres.vercel-storage.com',
+        'HOST': 'ep-steep-glade-805441-pooler.ap-southeast-1.aws.neon.tech',
         'PORT': '',
         
     }
