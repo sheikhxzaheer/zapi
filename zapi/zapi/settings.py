@@ -88,8 +88,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'verceldb',
         'USER': 'default',
-        'PASSWORD': 'zU0cw2lGpNBA',
-        'HOST': 'ep-steep-glade-805441-pooler.ap-southeast-1.aws.neon.tech',
+        'PASSWORD': 'nbDt9iTp1AEk',
+        'HOST': 'ep-holy-block-a10zly6b-pooler.ap-southeast-1.aws.neon.tech',
         'PORT': '',
         
     }
