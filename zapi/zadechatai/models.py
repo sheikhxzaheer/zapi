@@ -13,7 +13,7 @@ class Chat(models.Model):
     chat_id = models.AutoField(primary_key=True)
     chat_name = models.CharField(max_length=20, default='')
     chat_description = models.CharField(max_length=500, default='') 
-    chat_image = models.ImageField(upload_to="zadechatai/chat/", blank=True, null=True)
+    chat_url = models.CharField(max_length=500, default='') 
     
     def __str__(self):
         return self.chat_name
